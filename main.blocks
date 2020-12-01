@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Q(.PSJ3rs+s@8]@jY~@a" x="20" y="20"><statement name="HANDLER"><block type="typescript_statement" id="f!TL3]oo+*V]mZVZzO)8" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="namespace Temperature {" line1="" line2="    //% block" line3="    export function CelsiusToFahrenheit(c: number): number {" line4="        return ((c * 9 / 5) + 32);" line5="    };" line6="" line7="    //% block" line8="    export function FahrenheitToCelsius(f: number): number {" line9="        return (( f - 32) * 5 / 9);" line10="    };" line11="}" numlines="12"></mutation></block></statement></block></xml>
