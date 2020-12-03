@@ -1,5 +1,5 @@
 {
-    "name": "pxt-temperature-conversion",
+    "name": "temperature conversion",
     "version": "1.0.0",
     "description": "",
     "dependencies": {
@@ -19,5 +19,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
